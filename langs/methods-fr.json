@@ -1,0 +1,18 @@
+{
+    "wbtb": {
+        "title": "WBTB",
+        "desc": "L’acronyme WBTB renvoie à l’expression anglaise “Wake - Back To Bed”, littéralement “Réveil - retour au lit”. C’est le fait de se lever plus tôt que d’habitude la nuit ou le matin, de rester éveillé un certain temps puis de se recoucher pour se rendormir. Durant ce temps éveillé on pourra employer une méthode d'induction (idéalement un MILD) mais le WBTB n'est pas une méthode d'induction à lui seul, c'est uniquement un aménagement particulier du temps de sommeil."
+    },
+    "mild": {
+        "title": "MILD",
+        "desc": "Le MILD est une méthode d'induction assez facile d'accès qui permet de devenir lucide au cours d'un rêve normal. Elle a été inventée par Stephen LaBerge lorsqu'il cherchait à augmenter sa fréquence de rêves lucides pour la préparation de son doctorat. Il estime que c'est la méthode la plus efficace avec celle des tests de réalité."
+    },
+    "wild": {
+        "title": "WILD",
+        "desc": "Le WILD (Wake Induced Lucid Dream ou encore Wake Initiated Lucid Dream) est un rêve lucide obtenu par le biais d’un endormissement conscient, c’est-à-dire que l’on franchit consciemment les étapes entre l’état de veille et le sommeil pour se retrouver à l’intérieur du rêve. On aura donc assisté à son propre endormissement et à la naissance du rêve, sans perdre conscience."
+    },
+    "muo": {
+        "title": "MUO",
+        "desc": "Muo signifie Maintien dans l’Univers Onirique. Il s’agit tout simplement de se rendormir juste après un rêve pour “y retourner”. Au cours d’un rêve (lucide ou non), il peut arriver de se réveiller subitement. Le MUO consiste à se rendormir dès que l'on a conscience de s'être réveillé. Pour ce faire, il ne faut pas bouger, et garder les yeux fermés, jusqu'à se rendormir."
+    }
+}

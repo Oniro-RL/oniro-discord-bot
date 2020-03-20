@@ -1,0 +1,12 @@
+{
+    "name": "oniro-bot",
+    "version": "0.6",
+    "description": "Discord bot of the Oniro project",
+    "dependencies": {
+        "discord.js": "^11.1.0",
+        "google": "^2.1.0",
+        "request": "^2.88.0",
+        "scrape-it": "^4.0.0"
+    },
+    "main": "bot.js"
+}

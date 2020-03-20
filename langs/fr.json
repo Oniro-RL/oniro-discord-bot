@@ -1,0 +1,13 @@
+{
+	"command": {
+		"help": {
+			"name": "Méthodes Disponibles",
+			"value": "o!help: recevoir de l'aide\no!method [votre méthode]: recevoir une notice d'une méthode\no!lang [votre langue]: changer de langue"
+		}
+	},
+	"error": {
+		"method_not_found": "Je n'ai malheuresement pas cette méthode dans ma base de données :frowning:",
+		"lang_not_found": "Je n'ai pas cette langue dans ma base de données (seulement fr et en)"
+	},
+	"accro": "fr"
+}

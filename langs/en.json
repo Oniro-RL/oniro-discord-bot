@@ -1,0 +1,13 @@
+{
+	"command": {
+		"help": {
+			"name": "Available Methods",
+			"value": "o!help: get help\no!method [your method]: get informations about a method\no!lang [your language]: change language"
+		}
+	},
+	"error": {
+		"method_not_found": "I unfortunately don't have this method in my database.",
+		"lang_not_found": "I don't have this language in my database (only fr and en)."
+	},
+	"accro": "en"
+}

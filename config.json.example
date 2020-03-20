@@ -1,0 +1,8 @@
+{
+	"token": "TOKEN",
+	"prefix": "o!",
+	"commands_availables":  ["help", "lang", "method", "suis-je-le-meilleur-reveur", "search"],
+	"in_game": "o!help",
+	"in_game_type": "0",
+	"status": "online"
+}
